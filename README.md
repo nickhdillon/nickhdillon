@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm a full stack developer who loves Laravel, Vue.js, Tailwind CSS, and Inertia.js.
+I'm a full stack developer who loves Laravel, Livewire, Vue.js, Tailwind CSS, and Inertia.js.
 
 *   🌍  I'm based in Charleston, IL
 *   🖥️  See my portfolio at [nickdillon.dev](http://nickdillon.dev)
 *   ✉️  You can contact me at [nickhds@gmail.com](mailto:nickhds@gmail.com)
 *   🧠  I'm learning PHPUnit and Pest PHP
-*   🤝  I'm open to collaborating on anything involving Laravel, Vue.js, Tailwind CSS, or Inertia.js
+*   🤝  I'm open to collaborating on anything involving Laravel, Livewire, Vue.js, Tailwind CSS, or Inertia.js
 *   ⚡  I'm a coffee fanatic and I play the drums
 
 ### Skills 
