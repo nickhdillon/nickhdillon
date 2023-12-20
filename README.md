@@ -9,7 +9,7 @@ I'm a full stack developer who loves the TALL Stack, Vue.js, and Inertia.js
 *   🌍  I'm based in Brentwood, TN
 *   🖥️  See my portfolio at [nickdillon.dev](http://nickdillon.dev)
 *   ✉️  You can contact me at [nickhds@gmail.com](mailto:nickhds@gmail.com)
-*   🤝  I'm open to collaborating on anything involving the TALL Stack, Vue.js, or Inertia.js
+*   🤝  I'm open to collaborating on anything involving the TALL Stack, Filament, Vue.js, or Inertia.js
 *   ⚡  I'm a coffee fanatic and I play the drums
 
 ### Skills 
