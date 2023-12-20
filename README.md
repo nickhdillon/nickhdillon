@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm a full stack developer who loves the TALL Stack, Vue.js, and Inertia.js
+I'm a full stack developer who loves the TALL Stack, Filament, Vue.js, and Inertia.js
 
 *   🌍  I'm based in Brentwood, TN
 *   🖥️  See my portfolio at [nickdillon.dev](http://nickdillon.dev)
