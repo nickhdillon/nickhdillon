@@ -15,7 +15,7 @@ I'm a full stack developer who loves the TALL Stack, Filament, Vue.js, and Inert
 ### Skills 
 <p align="left">
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/59030169?s=48&v=4" width="36" height="36" alt="Alpine.js" /></a>
+<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/alpinejs-2.svg" width="36" height="36" alt="Alpine.js" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/51960834?s=64&v=4" width="36" height="36" alt="Livewire" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
