@@ -4,13 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 --------------------
 
-I'm a software developer who loves the TALL Stack, Filament, Vue.js, and Inertia.js
+I'm a software developer who loves the TALL Stack, Filament, Vue.js, and Inertia.js.
 
 *   🌍  I'm based in Brentwood, TN
 *   🖥️  See my portfolio at [nickdillon.dev](https://nickdillon.dev)
 *   ✉️  You can contact me at [nickhds@gmail.com](mailto:nickhds@gmail.com)
+*   🚀  I'm currently working on my own [finance app](https://nickdillon.dev/pure-finance)
 *   🤝  I'm open to collaborating on anything involving the TALL Stack, Filament, Vue.js, or Inertia.js
-*   ⚡  I'm a coffee fanatic and I play the drums
+*   ⚡  I'm a coffee snob, and I play the drums 🥁
 
 ### Skills 
 <p align="left">
