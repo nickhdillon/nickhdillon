@@ -9,7 +9,7 @@ I'm a software developer who loves the TALL Stack, Filament, Vue.js, and Inertia
 *   🌍  I'm based in Brentwood, TN
 *   🖥️  See my portfolio at [nickdillon.dev](https://nickdillon.dev)
 *   ✉️  You can contact me at [nickhds@gmail.com](mailto:nickhds@gmail.com)
-*   🚀  I'm currently working on my own [finance app](https://nickdillon.dev/pure-finance)
+*   🚀  I'm currently working on my own [audio player app](https://audio-archive.app)
 *   🤝  I'm open to collaborating on anything involving the TALL Stack, Filament, Vue.js, or Inertia.js
 *   ⚡  I'm a coffee snob, and I play the drums 🥁
 
