@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 --------------------
 
-I'm a software developer who loves the TALL Stack, Filament, Vue.js, and Inertia.js.
+I'm a software developer who loves the TALL Stack, Vue.js, Inertia.js, and TypeScript.
 
 *   🌍  I'm based in Brentwood, TN
 *   🖥️  See my portfolio at [nickdillon.dev](https://nickdillon.dev)
 *   ✉️  You can contact me at [nickhds@gmail.com](mailto:nickhds@gmail.com)
 *   🚀  I'm currently working on my own [audio player app](https://audio-archive.app)
-*   🤝  I'm open to collaborating on anything involving the TALL Stack, Filament, Vue.js, or Inertia.js
+*   🤝  I'm open to collaborating on anything involving the TALL Stack, Vue.js, Inertia.js, or TypeScript.
 *   ⚡  I'm a coffee snob, and I play the drums 🥁
 
 ### Skills 
@@ -19,13 +19,10 @@ I'm a software developer who loves the TALL Stack, Filament, Vue.js, and Inertia
 <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/alpinejs-2.svg" width="36" height="36" alt="Alpine.js" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/51960834?s=64&v=4" width="36" height="36" alt="Livewire" /></a>
-<a href="https://filamentphp.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/64450473?s=48&v=4" width="36" height="36" alt="Filament" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://inertiajs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/master/assets/logo.svg?sanitize=true" width="36" height="36" alt="Inertia.js" /></a>
+<a href="https://inertiajs.com/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1991663604639105024/SXc1KtVn.png" width="36" height="36" alt="Inertia.js" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 </p>
                     
 
