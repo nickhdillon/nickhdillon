@@ -6,7 +6,7 @@ Software Developer
 
 I'm a software developer who loves the TALL Stack, Vue.js, Inertia.js, and TypeScript.
 
-*   🌍  I'm based in Brentwood, TN
+*   🌍  I'm based in Charleston, IL
 *   🖥️  See my portfolio at [nickdillon.dev](https://nickdillon.dev)
 *   ✉️  You can contact me at [nickhds@gmail.com](mailto:nickhds@gmail.com)
 *   🚀  I'm currently working on my own [audio player app](https://audio-archive.app)
