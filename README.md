@@ -14,7 +14,7 @@ I'm a software developer who loves the TALL Stack, Vue.js, Inertia.js, and TypeS
 *   ⚡  I'm a coffee snob, and I play the drums 🥁
 
 ### Skills 
-<p align="left">
+<p align="left" style="display: flex">
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/alpinejs-2.svg" width="36" height="36" alt="Alpine.js" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
