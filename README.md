@@ -9,7 +9,7 @@ I'm a software developer who loves the TALL Stack, Vue.js, Inertia.js, and TypeS
 *   🌍  I'm based in Charleston, IL
 *   🖥️  See my portfolio at [nickdillon.dev](https://nickdillon.dev)
 *   ✉️  You can contact me at [nickhds@gmail.com](mailto:nickhds@gmail.com)
-*   🚀  I'm currently working on my own [audio player app](https://audio-archive.app)
+*   🚀  I'm currently working on my own [project management software](https://github.com/nickhdillon/over-watch)
 *   🤝  I'm open to collaborating on anything involving the TALL Stack, Vue.js, Inertia.js, or TypeScript.
 *   ⚡  I'm a coffee snob, and I play the drums 🥁
 
